@@ -20,7 +20,7 @@ timezone: America/Chicago
 
 title: "Brandon's adventures"                         # the main title
 
-tagline: My journey into security and beyond.   # it will display as the sub-title
+tagline: My journey into cyber security and beyond.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A place to store all of my projects,
