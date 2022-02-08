@@ -2,5 +2,5 @@
 layout: projects
 title: Projects
 icon: fas fa-clipboard
-order: 5
+order: 1
 ---
