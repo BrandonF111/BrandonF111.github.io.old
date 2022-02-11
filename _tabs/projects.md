@@ -1,6 +1,6 @@
 ---
 layout: projects
 title: Projects
-icon: fas folder-open
+icon: fas fa-solid fa-folder-open
 order: 5
 ---
