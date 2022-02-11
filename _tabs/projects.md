@@ -1,7 +1,7 @@
 ---
 title: Projects
 icon: fas fa-solid fa-folder-open
-order: 5
+order: 2
 ---
 
 # This page will host all of my projects
